@@ -3,7 +3,7 @@ import threading
 import sys
 
 # Configuration
-HOST = input('IP?  : ')
+HOST = "127.0.0.1"
 PORT = 65432
 BUFFER_SIZE = 1024
 
