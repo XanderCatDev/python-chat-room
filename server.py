@@ -2,7 +2,7 @@ import socket
 import threading
 
 # Configuration
-HOST = '192.168.1.22'
+HOST = '127.0.0.1'
 PORT = 65432
 BUFFER_SIZE = 1024
 
